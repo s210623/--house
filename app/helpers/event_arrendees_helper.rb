@@ -1,0 +1,2 @@
+module EventArrendeesHelper
+end
